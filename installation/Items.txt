@@ -1,0 +1,15 @@
+['nabitalufka'] = {
+    label = 'Nabita lufka',
+},
+
+['lufka'] = {
+    label = 'lufka',
+},
+
+['lighter'] = {
+    label = 'Zapalniczka',
+},
+
+['weed'] = {
+    label = 'Afgan haze 1g',
+},
